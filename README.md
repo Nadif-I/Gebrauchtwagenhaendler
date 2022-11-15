@@ -39,4 +39,4 @@ entsprechend digital "nachschlagbar" sein.
 	Methoden alle Informationen zu Kunde, Auto und Rechnung
 	angezeigt bekommen.
 
-Viel Erfolg!
+# Not finished yet
