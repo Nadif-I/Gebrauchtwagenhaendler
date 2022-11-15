@@ -1,0 +1,15 @@
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/Gebrauchtwagenhaendler.csproj.AssemblyReference.cache
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/Gebrauchtwagenhaendler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/Gebrauchtwagenhaendler.AssemblyInfoInputs.cache
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/Gebrauchtwagenhaendler.AssemblyInfo.cs
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/Gebrauchtwagenhaendler.csproj.CoreCompileInputs.cache
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/bin/Debug/net7.0/Gebrauchtwagenhaendler
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/bin/Debug/net7.0/Gebrauchtwagenhaendler.deps.json
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/bin/Debug/net7.0/Gebrauchtwagenhaendler.runtimeconfig.json
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/bin/Debug/net7.0/Gebrauchtwagenhaendler.dll
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/bin/Debug/net7.0/Gebrauchtwagenhaendler.pdb
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/Gebrauchtwagenhaendler.dll
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/refint/Gebrauchtwagenhaendler.dll
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/Gebrauchtwagenhaendler.pdb
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/Gebrauchtwagenhaendler.genruntimeconfig.cache
+/Users/ilyassnadif/Projects/Gebrauchtwagenhaendler/Gebrauchtwagenhaendler/obj/Debug/net7.0/ref/Gebrauchtwagenhaendler.dll
