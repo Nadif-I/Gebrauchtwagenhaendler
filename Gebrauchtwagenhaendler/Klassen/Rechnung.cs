@@ -10,7 +10,7 @@ namespace Gebrauchtwagenhaendler
         public string auto;
         public DateOnly datum;
         public float preis;
-        public string anzahlRG; // Static machen
+        public static string anzahlRG; // Static machen
 
         public Rechnung(string kunde, string auto, DateOnly datum, float preis, string anzahlRG)
         {

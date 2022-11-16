@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{ACAA41CE-7783-4B34-B521-426D75D203EB}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Gebrauchtwagenhaendler FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gebrauchtwagenhaendler/Program.cs">
+    <Files>
+      <File FileName="Gebrauchtwagenhaendler/Program.cs" Line="24" Column="16" />
+      <File FileName="Gebrauchtwagenhaendler/Kunde.cs" Line="22" Column="10" />
+      <File FileName="Gebrauchtwagenhaendler/Klassen/Auto.cs" Line="8" Column="9" />
+      <File FileName="Gebrauchtwagenhaendler/Rechnung.cs" Line="13" Column="23" />
+      <File FileName="Gebrauchtwagenhaendler/Menu.cs" Line="7" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gebrauchtwagenhaendler" expanded="True">
+            <Node name="Gebrauchtwagenhaendler" expanded="True">
+              <Node name="Klassen" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Gebrauchtwagenhaendler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
